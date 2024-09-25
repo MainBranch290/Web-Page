@@ -124,7 +124,7 @@ const Footer = () => {
     <footer className="bg-black py-10">
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row justify-between items-start">
-          <div className="mb-4 md:mb-0">
+          <div className="mb-2 md:mb-0">
             <h3 className="text-xl font-bold mb-2 text-white inline-block border-b-2 border-gray-500 w-18">Women</h3>
             <ul className="list-none p-0 text-gray-400 mt-10">
               <li className="mb-2 hover:text-white"><a href="#">Westernwear</a></li>

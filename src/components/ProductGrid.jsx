@@ -2,9 +2,9 @@ import React from 'react';
 
 const ProductGrid = () => {
   const products = [
-    { id: 1, name: 'Stylish Jacket', price: '₹ 3500', image: '/jacket.1.avif' },
-    { id: 2, name: 'Casual T-shirt', price: '₹ 4500', image: '/jacket2.jpg' },
-    { id: 3, name: 'Classic Shoes', price: '₹ 5000', image: '/jacket4.jpg' },
+    { id: 1, name: 'Stylish Jacket', price: '₹ 3500', image: '/jacket2.jpg' },
+    { id: 2, name: 'Casual T-shirt', price: '₹ 4500', image: '/Casual T-shirt.jpg' },
+    { id: 3, name: 'Classic Shoes', price: '₹ 5000', image: '/fashion-shoes-sneakers.jpg' },
     { id: 4, name: 'Elegant Dress', price: '₹ 2500', image: '/Elegant Dress.jpg' },
   ];
 
